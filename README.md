@@ -1,2 +1,2 @@
-# crime_analysis_la
+# Crime Analysis LA
 Dashboard Project on Crime in Los Angeles
